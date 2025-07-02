@@ -3,20 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>ITALIAN SPAGHETTI</title>
-<STYLE> body {
-      font-family: Arial, sans-serif;
-      background: #fff8f0;
-      padding: 20px;
-    }
-    h1 {
-      color: #d35400;
-    }
-    .ingredients {
-      background: #fbeee0;
-      padding: 10px;
-      border-radius: 5px;
-    } 
-    </STYLE>
     </head>
 <body>
     <h1>🍝 Spaghetti Bolognese</h1>
