@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ITALIAN SPAGHETTI</title>
     </head>
 <body>
     <h1>🍝 Spaghetti Bolognese</h1>
