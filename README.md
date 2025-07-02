@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>ITALIAN SPAGHETTI</title>
-</head>
 <STYLE> body {
       font-family: Arial, sans-serif;
       background: #fff8f0;
